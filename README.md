@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exploratory-Data-Analysis
 =======
 Nifty 50 Portfolio Analysis Project
@@ -85,6 +84,3 @@ License
 [Choose an appropriate license, e.g., MIT]
 Contributing
 Contributions, issues, and feature requests are welcome!
-Contact
-[Your Name/Contact Information]
->>>>>>> bece581 (initial commit)
