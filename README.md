@@ -11,10 +11,11 @@ Portfolio risk and return analysis
 Beta computation for individual stocks
 
 # Prerequisites
-Required Libraries
-yfinance: For downloading stock price data
-numpy: For numerical computations
-pandas: For data manipulation
+# Required Libraries
+
+yfinance: For downloading stock price data 
+numpy: For numerical computations 
+pandas: For data manipulation 
 os: For directory and file operations
 
 # Installation
